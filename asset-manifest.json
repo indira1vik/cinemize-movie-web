@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cinemize-movie-web/static/css/main.f9d74f81.css",
+    "main.js": "/cinemize-movie-web/static/js/main.feebed2b.js",
+    "static/js/787.c33deebc.chunk.js": "/cinemize-movie-web/static/js/787.c33deebc.chunk.js",
+    "static/media/Wallpaper.png": "/cinemize-movie-web/static/media/Wallpaper.8d5576157fa44e46c8fb.png",
+    "index.html": "/cinemize-movie-web/index.html",
+    "main.f9d74f81.css.map": "/cinemize-movie-web/static/css/main.f9d74f81.css.map",
+    "main.feebed2b.js.map": "/cinemize-movie-web/static/js/main.feebed2b.js.map",
+    "787.c33deebc.chunk.js.map": "/cinemize-movie-web/static/js/787.c33deebc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d74f81.css",
+    "static/js/main.feebed2b.js"
+  ]
+}
